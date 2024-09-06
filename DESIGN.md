@@ -102,6 +102,5 @@ A view `cpf_check` allows for computation of columns such as take_home, employer
 
 2. The tables within payroll.db are meant to be future-proof. But in the event that the user wishes to alter the type of a column, it will be impossible to do so without deleting the entire table as SQLite does not support modifying types.
 
-Copyright © 2024 Beh Kai Le Rinchen
-
-All rights reserved. No part of this software may be copied, redistributed or modified without written permission of the copyright owner.
+Copyright © 2024 Beh Kai Le Rinchen  
+All rights reserved. No part of this software may be copied, redistributed or modified without written permission from the copyright owner.
